@@ -1,0 +1,11 @@
+RPCS3 Save Tool ¨RST¨ by Agente2 and published by EricMertensRDA
+
+Version 1.0 | 4/2/2026
+
+This tool remaps the binds CTRL+S to Space and CTRL+L to RSHIFT.
+
+ - Standart binds = Space to save and RSHIFT to load.
+
+RPCS3 must be the active window, otherwise input goes nowhere.
+
+Change the code for changing the standart binds.
